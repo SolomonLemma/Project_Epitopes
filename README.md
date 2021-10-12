@@ -1,4 +1,4 @@
-# Predicting of B-cell Epitopes for Vaccine Design
+# Project: Predicting of B-cell Epitopes for Vaccine Design
 
 ### Contents
 The project was carried out in two different jupyter notebooks. The notebook with the title "Grid search" covered detained data cleaning, EDA, and features engineering. The cleaned data were employed in the model building and evaluation to find excellent predictions. The notebook with the title “Summary_results_Project” utilized the best-performed output of the grid research of selected models with an additional explanation of the problem of statement and conclusion. 
